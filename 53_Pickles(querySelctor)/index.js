@@ -1,2 +1,2 @@
 // YOUR CODE GOES IN HERE:
-document.querySelector('span').innerText = 'Disgusting';
+document.querySelector('h1 >span').innerText = 'Disgusting';
